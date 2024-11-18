@@ -68,7 +68,7 @@ Cerco opportunità stimolanti nel campo della sicurezza informatica, dove possa 
 **📧 Contattami:**
 Sono aperto a connessioni, collaborazioni e opportunità di networking.
 
-[Sentiti libero di contattarmi!](./https://www.linkedin.com/in/giacomofestante/)
+[`Sentiti libero di contattarmi!`](https://www.linkedin.com/in/giacomofestante/)
 
 ## projects
 
