@@ -41,8 +41,6 @@ Conoscenze approfondite in:
 - Linux Overview
 - Network Protocols
 - Ethernet and Internet Protocol (IP)
-- Network Protocols
-- Ethernet and Internet Protocol (IP)
 - The Transport Layer
 - Network Services
 - Network Communication Devices
