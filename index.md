@@ -57,11 +57,11 @@ Conoscenze approfondite in:
 
 
 **💼 Percorsi Formativi Complementari:**
-- Corso Tecnico Giuridico: approfondimento sullo standard ISO/IEC 27001 e conoscenza su temi quali compliance, governance e misure di sicurezza organizzative;
+- Corso Tecnico Giuridico: approfondimento sullo `standard ISO/IEC 27001` e conoscenza su temi quali compliance, governance e misure di sicurezza organizzative;
 - Corso di Comunicazione Efficace
 
 **💡 Chi Sono:**
-Mi ritengo una persona molto curiosa, intraprendente e socievole con una forte passione per la tecnologia e la cybersecurity. La mia ambizione è crescere professionalmente, lavorare in un ambiente stimolante e formarmi costantemente.
+Mi ritengo una persona molto `curiosa`, `intraprendente` e `socievole` con una forte passione per la tecnologia e la cybersecurity. La mia ambizione è crescere professionalmente, lavorare in un ambiente stimolante e formarmi costantemente.
 
 **🤝 Approccio al Lavoro:**
 Sono propenso al lavoro di gruppo, leale e rispettoso. Credo nell'importanza della collaborazione e della comunicazione efficace per il successo di qualsiasi progetto.
@@ -71,7 +71,7 @@ Cerco opportunità stimolanti nel campo della sicurezza informatica, dove possa 
 
 **📧 Contattami:**
 Sono aperto a connessioni, collaborazioni e opportunità di networking.
-Sentiti libero di contattarmi!
+`Sentiti libero di contattarmi!`
 
 ## projects
 
