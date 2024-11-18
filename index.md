@@ -24,6 +24,7 @@ Salve, sono **Giacomo**, un appassionato di tecnologia con una solida formazione
 **🎓 Formazione e Certificazioni:**
 - Cisco CyberOps Associate
 - Attestati Cisco: IT Essential, Networking Essential, Introduction to Cyber Security
+- Formazione generale salute e sicurezza nei luoghi di lavoro
 - Diploma in Amministrazione Finanza & Marketing.
 
 **⚙️ Competenze Tecniche:**
