@@ -31,34 +31,34 @@ Conoscenze approfondite in:
  - GDPR, PSNC, standard internazionali di sicurezza
 - Tecniche di offensive security
 - Network, infrastracture, application
--The Danger + LAB: Installing Virtual Machine
--Fighters in the War Against Cybercrime
--The Windows Operating System
--Linux Overview
--Network Protocols
--Ethernet and Internet Protocol (IP)
--Network Protocols
--Ethernet and Internet Protocol (IP)
--The Transport Layer
--Network Services
--Network Communication Devices
--Network Security Infrastructure
--Attackers and Their Tools
--Common Threats and Attacks
--Network Monitoring and Tools
--Attacking the Foundation
--Attacking What We Do
--Understanding Defense
--Access Control
--Threat Intelligence
--Cryptography
--Endpoint Protection
--Endpoint Vulnerability Assessment
--Technologies and Protocols
--Network Security Data
--Evaluating Alerts
--Working with Network Security Data
--Digital Forensics and Incident Analysis and Response
+- The Danger + LAB: Installing Virtual Machine
+- Fighters in the War Against Cybercrime
+- The Windows Operating System
+- Linux Overview
+- Network Protocols
+- Ethernet and Internet Protocol (IP)
+- Network Protocols
+- Ethernet and Internet Protocol (IP)
+- The Transport Layer
+- Network Services
+- Network Communication Devices
+- Network Security Infrastructure
+- Attackers and Their Tools
+- Common Threats and Attacks
+- Network Monitoring and Tools
+- Attacking the Foundation
+- Attacking What We Do
+- Understanding Defense
+- Access Control
+- Threat Intelligence
+- Cryptography
+- Endpoint Protection
+- Endpoint Vulnerability Assessment
+- Technologies and Protocols
+- Network Security Data
+- Evaluating Alerts
+- Working with Network Security Data
+- Digital Forensics and Incident Analysis and Response
 
 
 **💼 Percorsi Formativi Complementari:**
