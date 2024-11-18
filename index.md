@@ -29,8 +29,11 @@ Salve, sono **Giacomo**, un appassionato di tecnologia con una solida formazione
 
 **⚙️ Competenze Tecniche:**
 Conoscenze approfondite in:
- - GDPR, PSNC, standard internazionali di sicurezza
+- GDPR, PSNC, standard internazionali di sicurezza
 - Tecniche di offensive security
+- MITRE Attack Framework & Red Team Exercise
+- Atomic Red Team
+- Shellcoding
 - Network, infrastracture, application
 - The Danger + LAB: Installing Virtual Machine
 - Fighters in the War Against Cybercrime
