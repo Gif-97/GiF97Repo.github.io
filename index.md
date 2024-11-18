@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # GiF's portfolio, presento me ed i miei progetti.
 
 ## whoami
