@@ -67,7 +67,7 @@ Conoscenze approfondite in:
 **📧 Contattami:**
       Sono aperto a connessioni, collaborazioni e opportunità di networking.
 
-[Sentiti libero di contattarmi!](https://www.linkedin.com/in/giacomofestante/)
+![Linkedin_48x48](https://github.com/Gif-97/GiF97Repo.github.io/blob/main/Linkedin_48x48.png) [Contattami!](https://www.linkedin.com/in/giacomofestante/)
 
 ****
 
