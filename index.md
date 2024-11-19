@@ -5,8 +5,7 @@
 Ciao! Sono **Giacomo**
 
 **🚀 Mi presento:**
-
-Salve, sono **Giacomo**, un appassionato di tecnologia con una solida formazione in informatica e un focus particolare sulla sicurezza informatica.
+      Salve, sono **Giacomo**, un appassionato di tecnologia con una solida formazione in informatica e un focus particolare sulla sicurezza informatica.
 
 **🎓 Formazione e Certificazioni:**
 - Cisco `CyberOps` Associate 2.0
