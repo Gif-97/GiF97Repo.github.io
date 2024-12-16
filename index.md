@@ -75,4 +75,8 @@ Conoscenze approfondite in:
 
 _cat /home/GiF/Desktop/projects.txt_
 
+[Home Network Pratice](https://github.com/Gif-97/HomeNetwork-Pratice/blob/main/README.md)
+[SIEM](https://github.com/gif-97/SIEM-Pratice)
+[Honeypot](https://github.com/gif-97/HoneyPot-Pratice)
 
+[Ramsomware](https://github.com/gif-97/RamsomwareAttack-Pratice)
