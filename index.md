@@ -73,7 +73,7 @@ Conoscenze approfondite in:
 
 ## projects
 
-_ls /home/GiF/Desktop/projects.txt_
+_ls /home/GiF/Desktop/projects_
 
 [Home Network Pratice](https://github.com/Gif-97/HomeNetwork-Pratice/blob/main/README.md)
 [SIEM](https://github.com/gif-97/SIEM-Pratice)
