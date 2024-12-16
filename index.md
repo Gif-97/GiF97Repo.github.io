@@ -4,6 +4,8 @@
 
 Ciao! Sono **Giacomo**
 
+_cat /home/GiF/Desktop/introduceMySelf.txt_
+
 **🚀 Mi presento:**
       Salve, sono **Giacomo**, un appassionato di tecnologia con una solida formazione in informatica e un focus particolare sulla sicurezza informatica.
 
