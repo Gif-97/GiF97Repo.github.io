@@ -44,7 +44,7 @@ Conoscenze approfondite in:
 - Attacking What We Do
 - Understanding Defense
 - Access Control
-- Threat Intelligence
+- `Threat Intelligence`
 - `Cryptography`
 - Endpoint Protection
 - Endpoint Vulnerability Assessment
