@@ -11,8 +11,8 @@ _cat /home/GiF/Desktop/introduceMySelf.txt_
 
 **🎓 Formazione e Certificazioni:**
 - Cisco `CyberOps` Associate 2.0
-- Attestati Fortinet: `FortiGate 7.4 Operator`, `Certified Associate Cybersecurity`
-- IBM: `Cybersecurity Fundamentals`
+- Attestati Fortinet: `FortiGate 7.4 Operator`, `Certified Associate Cybersecurity`, `Introduction to the Threat Landscape 2.0`
+- IBM: `Cybersecurity Fundamentals`, `IBM QRadar SIEM Foundation`
 - Altri attestati Cisco: `IT Essential`, `Networking Essential`, `Introduction to Cyber Security`
 - In possesso dell'attestato: Formazione generale salute e sicurezza nei luoghi di lavoro
 - Diploma in Amministrazione Finanza & Marketing
